@@ -1,0 +1,61 @@
+20
+AZ
+50000
+hing geok
+SP
+570000
+singapore general
+PF
+100000
+chinese super
+SV
+900000
+siloam
+AZ
+500000
+merdeka
+CS
+250000
+good health
+SV
+750000
+happiness
+SV
+500000
+singapore general
+PF
+500000
+liem keok
+CS
+100000
+siloam
+SP
+1000000
+singapore general
+SV
+200000
+mega hospital
+AZ
+200000
+hyoer hospital
+SP
+300000
+Mega Hospital
+SV
+500000
+Mega Hospital
+AZ
+100000
+Tom Hospital
+CS
+500000
+Singapore General 
+CS
+390000
+APU Hospital
+SV
+500000
+Tom hospital
+TP
+500000
+Mega Hospital
